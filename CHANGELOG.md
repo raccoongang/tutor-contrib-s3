@@ -4,6 +4,7 @@
 
 * [Testing] Set skip_missing_interpreters = true for tox, so that it runs with whatever Python is available.
 * [Chore] Use full repo path for skills submodule.
+* * [Enhancement] Support Tutor 22 and Open edX Verawood.
 
 ## Version 2.5.0 (2026-01-27)
 
